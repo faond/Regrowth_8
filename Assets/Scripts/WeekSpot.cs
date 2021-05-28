@@ -12,7 +12,7 @@ public class WeekSpot : MonoBehaviour
           RandomManager.instance.lifeMustPop = (RandomManager.instance.Uniform(0,1) == 1);
           AudioManager.instance.PlayClipAt(killSound, transform.position);
           objectToDestroy.isAlive=false;
-          objectToDestroy.timer=10;
+          objectToDestroy.timer=RandomManager.instance.Poisson((1-RandomManager.instance.difficulty) * 10);
           graph.SetActive(false);
         }
     }

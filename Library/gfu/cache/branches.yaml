@@ -13,17 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-05-28T14:18:38.145+02:00
-  initializedAtString: 2021-05-28T14:18:38.119+02:00
+  lastUpdatedAtString: 2021-05-29T01:03:48.367+02:00
+  initializedAtString: 2021-05-28T23:02:40.895+02:00
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/faond/Regrowth_7.git
+    url: https://github.com/faond/Regrowth_8
     login: 
     user: 
     host: 
@@ -36,24 +38,30 @@ MonoBehaviour:
     - name: master
       remote:
         name: origin
-        url: https://github.com/faond/Regrowth_7.git
+        url: https://github.com/faond/Regrowth_8
       trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - HEAD
       - master
     subKeyValues:
     - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/faond/Regrowth_8
+        trackingBranch: 
       - name: master
         remote:
           name: origin
-          url: https://github.com/faond/Regrowth_7.git
+          url: https://github.com/faond/Regrowth_8
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/faond/Regrowth_7.git
+      url: https://github.com/faond/Regrowth_8

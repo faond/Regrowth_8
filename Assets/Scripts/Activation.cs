@@ -8,8 +8,6 @@ public class Activation : MonoBehaviour
   public float timer = -1 ;
   //public bool timerIsRunning = false;
 
-
-
     void Update()
     {
 
@@ -17,7 +15,6 @@ public class Activation : MonoBehaviour
           {
             if (timer > 0)
             {
-
                 timer -= Time.deltaTime;
             }
             else

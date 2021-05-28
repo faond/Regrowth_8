@@ -52,7 +52,6 @@ public class RandomManager : MonoBehaviour
             result += Bernoulli(p);
         }
         binomial.Add(result);
-
         return result;
     }
 
@@ -71,20 +70,21 @@ public class RandomManager : MonoBehaviour
     }
 
     public float Mean<T>(List<T> list){ //MOYENNE
-        int count = 0;
+        float sum = 0;
         int length = list.Count;
-        for(int i = 0; i < length; i++){
-            count++;
+        foreach(T element in list){
+            float value = (float)System.Convert.ToDouble(element);
+            sum += value;
         }
-        if(length > 0) return (float)count/length;
+        if(length > 0) return (float)sum/(float)length;
         return -1.0f;
     }
 
-    //Liste des écarts moyens par rapport à la moyenne
-    public List<float> MeanDeviations(List<int> list, float mean){ //ÉCARTS À LA MOYENNE
+    public List<float> MeanDeviations(List<int> list, float mean){ //LISTE DES ÉCARTS À LA MOYENNE
         List<float> result = new List<float>();
         foreach(int element in list){
-            result.Add(System.Math.Abs((float)element - mean));
+            float deviation = System.Math.Abs((float)element - mean);
+            result.Add(deviation);
         }
         return result;
     }
