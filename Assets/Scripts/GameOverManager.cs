@@ -37,6 +37,7 @@ public class GameOverManager : MonoBehaviour
     }
     public void CloseStatsButton(){
         statsWindows.SetActive(false);
+
     }
 
     public void QuitButton(){

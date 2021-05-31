@@ -13,1038 +13,960 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-05-29T01:03:47.333+02:00
-  initializedAtString: 2021-05-28T22:03:47.355+02:00
+  lastUpdatedAtString: 2021-05-31T11:04:04.267+02:00
+  initializedAtString: 2021-05-31T11:00:05.152+02:00
   entries:
-  - path: Assets\Palettes.meta
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Assets\Palettes.meta
-    projectPath: Assets\Palettes.meta
+  - path: .DS_Store
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets/.DS_Store
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/.DS_Store
+    projectPath: Assets/.DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Fonts/LondrinaSolid-Black.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/LondrinaSolid-Black.ttf
+    projectPath: Assets/Fonts/LondrinaSolid-Black.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/LondrinaSolid-Black.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/LondrinaSolid-Black.ttf.meta
+    projectPath: Assets/Fonts/LondrinaSolid-Black.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/LondrinaSolid-Light.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/LondrinaSolid-Light.ttf
+    projectPath: Assets/Fonts/LondrinaSolid-Light.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/LondrinaSolid-Light.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/LondrinaSolid-Light.ttf.meta
+    projectPath: Assets/Fonts/LondrinaSolid-Light.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/LondrinaSolid-Regular.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/LondrinaSolid-Regular.ttf
+    projectPath: Assets/Fonts/LondrinaSolid-Regular.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/LondrinaSolid-Regular.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/LondrinaSolid-Regular.ttf.meta
+    projectPath: Assets/Fonts/LondrinaSolid-Regular.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/LondrinaSolid-Thin.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/LondrinaSolid-Thin.ttf
+    projectPath: Assets/Fonts/LondrinaSolid-Thin.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/LondrinaSolid-Thin.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/LondrinaSolid-Thin.ttf.meta
+    projectPath: Assets/Fonts/LondrinaSolid-Thin.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-Bold.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-Bold.ttf
+    projectPath: Assets/Fonts/OpenSans-Bold.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-Bold.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-Bold.ttf.meta
+    projectPath: Assets/Fonts/OpenSans-Bold.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-BoldItalic.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-BoldItalic.ttf
+    projectPath: Assets/Fonts/OpenSans-BoldItalic.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-BoldItalic.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-BoldItalic.ttf.meta
+    projectPath: Assets/Fonts/OpenSans-BoldItalic.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-ExtraBold.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-ExtraBold.ttf
+    projectPath: Assets/Fonts/OpenSans-ExtraBold.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-ExtraBold.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-ExtraBold.ttf.meta
+    projectPath: Assets/Fonts/OpenSans-ExtraBold.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-ExtraBoldItalic.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-ExtraBoldItalic.ttf
+    projectPath: Assets/Fonts/OpenSans-ExtraBoldItalic.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-ExtraBoldItalic.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-ExtraBoldItalic.ttf.meta
+    projectPath: Assets/Fonts/OpenSans-ExtraBoldItalic.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-Italic.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-Italic.ttf
+    projectPath: Assets/Fonts/OpenSans-Italic.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-Italic.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-Italic.ttf.meta
+    projectPath: Assets/Fonts/OpenSans-Italic.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-Light.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-Light.ttf
+    projectPath: Assets/Fonts/OpenSans-Light.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-Light.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-Light.ttf.meta
+    projectPath: Assets/Fonts/OpenSans-Light.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-LightItalic.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-LightItalic.ttf
+    projectPath: Assets/Fonts/OpenSans-LightItalic.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-LightItalic.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-LightItalic.ttf.meta
+    projectPath: Assets/Fonts/OpenSans-LightItalic.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-Regular.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-Regular.ttf
+    projectPath: Assets/Fonts/OpenSans-Regular.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-Regular.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-Regular.ttf.meta
+    projectPath: Assets/Fonts/OpenSans-Regular.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-SemiBold.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-SemiBold.ttf
+    projectPath: Assets/Fonts/OpenSans-SemiBold.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-SemiBold.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-SemiBold.ttf.meta
+    projectPath: Assets/Fonts/OpenSans-SemiBold.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-SemiBoldItalic.ttf
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-SemiBoldItalic.ttf
+    projectPath: Assets/Fonts/OpenSans-SemiBoldItalic.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Fonts/OpenSans-SemiBoldItalic.ttf.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Fonts/OpenSans-SemiBoldItalic.ttf.meta
+    projectPath: Assets/Fonts/OpenSans-SemiBoldItalic.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Imports/acc-104.png
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Imports/acc-104.png
+    projectPath: Assets/Imports/acc-104.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Imports/acc-104.png.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Imports/acc-104.png.meta
+    projectPath: Assets/Imports/acc-104.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Palettes.meta
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Palettes.meta
+    projectPath: Assets/Palettes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/SettingsWindow.prefab
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Prefabs/SettingsWindow.prefab
+    projectPath: Assets/Prefabs/SettingsWindow.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/MainMenu.unity
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Scenes/MainMenu.unity
+    projectPath: Assets/Scenes/MainMenu.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/SampleScene.unity
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Scenes/SampleScene.unity
+    projectPath: Assets/Scenes/SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/GameOverManager.cs
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Scripts/GameOverManager.cs
+    projectPath: Assets/Scripts/GameOverManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/PauseMenu.cs
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Scripts/PauseMenu.cs
+    projectPath: Assets/Scripts/PauseMenu.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/StatsMenu.cs
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Assets/Scripts/StatsMenu.cs
+    projectPath: Assets/Scripts/StatsMenu.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/APIUpdater/project-dependencies.graph
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/APIUpdater/project-dependencies.graph
+    projectPath: Library/APIUpdater/project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB-lock
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ArtifactDB-lock
+    projectPath: Library/ArtifactDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/02/023ed1d6138a5ddc81276cab6b0dab5d
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/02/023ed1d6138a5ddc81276cab6b0dab5d
+    projectPath: Library/Artifacts/02/023ed1d6138a5ddc81276cab6b0dab5d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Assets\Scenes\SampleScene.unity
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Assets\Scenes\SampleScene.unity
-    projectPath: Assets\Scenes\SampleScene.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Activation.cs
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Assets\Scripts\Activation.cs
-    projectPath: Assets\Scripts\Activation.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\RandomManager.cs
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Assets\Scripts\RandomManager.cs
-    projectPath: Assets\Scripts\RandomManager.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\WeekSpot.cs
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Assets\Scripts\WeekSpot.cs
-    projectPath: Assets\Scripts\WeekSpot.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\APIUpdater\project-dependencies.graph
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ArtifactDB
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ArtifactDB
-    projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Artifacts\07\07e530e216a0e3668e0b747ad3d7f0fe
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\07\07e530e216a0e3668e0b747ad3d7f0fe
-    projectPath: Library\Artifacts\07\07e530e216a0e3668e0b747ad3d7f0fe
+  - path: Library/Artifacts/0a/0ae7611e1f1e0b7d6a86beaa4aa9be1c
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/0a/0ae7611e1f1e0b7d6a86beaa4aa9be1c
+    projectPath: Library/Artifacts/0a/0ae7611e1f1e0b7d6a86beaa4aa9be1c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\0a\0ad49f93385b4e35df5185ff4464af59
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\0a\0ad49f93385b4e35df5185ff4464af59
-    projectPath: Library\Artifacts\0a\0ad49f93385b4e35df5185ff4464af59
+  - path: Library/Artifacts/11/115384de16139aff918154677b4406ea
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/11/115384de16139aff918154677b4406ea
+    projectPath: Library/Artifacts/11/115384de16139aff918154677b4406ea
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\0a\0ae7611e1f1e0b7d6a86beaa4aa9be1c
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\0a\0ae7611e1f1e0b7d6a86beaa4aa9be1c
-    projectPath: Library\Artifacts\0a\0ae7611e1f1e0b7d6a86beaa4aa9be1c
+  - path: Library/Artifacts/11/11b44d2a7fe7d55711fb7294be8834a2
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/11/11b44d2a7fe7d55711fb7294be8834a2
+    projectPath: Library/Artifacts/11/11b44d2a7fe7d55711fb7294be8834a2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\0e\0e622e7f6fa6d274268bd2199feda225
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\0e\0e622e7f6fa6d274268bd2199feda225
-    projectPath: Library\Artifacts\0e\0e622e7f6fa6d274268bd2199feda225
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\11\115384de16139aff918154677b4406ea
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\11\115384de16139aff918154677b4406ea
-    projectPath: Library\Artifacts\11\115384de16139aff918154677b4406ea
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1e\1e8db30fd88c5bb0e0a2006837e2c94d
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\1e\1e8db30fd88c5bb0e0a2006837e2c94d
-    projectPath: Library\Artifacts\1e\1e8db30fd88c5bb0e0a2006837e2c94d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2d\2d88ca24e52dd92b72721df753c54c74
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\2d\2d88ca24e52dd92b72721df753c54c74
-    projectPath: Library\Artifacts\2d\2d88ca24e52dd92b72721df753c54c74
+  - path: Library/Artifacts/16/162d9d4a042948cb0fc6f569aa2ffcb1
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/16/162d9d4a042948cb0fc6f569aa2ffcb1
+    projectPath: Library/Artifacts/16/162d9d4a042948cb0fc6f569aa2ffcb1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3b\3b1c514b65e877a1904de9dc505daf67
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\3b\3b1c514b65e877a1904de9dc505daf67
-    projectPath: Library\Artifacts\3b\3b1c514b65e877a1904de9dc505daf67
+  - path: Library/Artifacts/19/1956ae9d294a85aa2527b7c364a6f91c
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/19/1956ae9d294a85aa2527b7c364a6f91c
+    projectPath: Library/Artifacts/19/1956ae9d294a85aa2527b7c364a6f91c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/20/20396ed69852cf4b563e37d44754497c
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/20/20396ed69852cf4b563e37d44754497c
+    projectPath: Library/Artifacts/20/20396ed69852cf4b563e37d44754497c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/28/28357de1953350e94f07a5ff98a98395
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/28/28357de1953350e94f07a5ff98a98395
+    projectPath: Library/Artifacts/28/28357de1953350e94f07a5ff98a98395
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3b\3b4d3f02a2f227801b664bdfa1ea995d
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\3b\3b4d3f02a2f227801b664bdfa1ea995d
-    projectPath: Library\Artifacts\3b\3b4d3f02a2f227801b664bdfa1ea995d
+  - path: Library/Artifacts/38/38dfd063d60bc6eded0083f96828024b
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/38/38dfd063d60bc6eded0083f96828024b
+    projectPath: Library/Artifacts/38/38dfd063d60bc6eded0083f96828024b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\41\418bcdba93627f9efc5c0ccc172dd2d9
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\41\418bcdba93627f9efc5c0ccc172dd2d9
-    projectPath: Library\Artifacts\41\418bcdba93627f9efc5c0ccc172dd2d9
+  - path: Library/Artifacts/42/42f2dd9b8aeed5a735f5e1fb516085ed
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/42/42f2dd9b8aeed5a735f5e1fb516085ed
+    projectPath: Library/Artifacts/42/42f2dd9b8aeed5a735f5e1fb516085ed
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\42\42f2dd9b8aeed5a735f5e1fb516085ed
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\42\42f2dd9b8aeed5a735f5e1fb516085ed
-    projectPath: Library\Artifacts\42\42f2dd9b8aeed5a735f5e1fb516085ed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4c\4cd00111985f23fcdf13f9fdbfd485b6
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\4c\4cd00111985f23fcdf13f9fdbfd485b6
-    projectPath: Library\Artifacts\4c\4cd00111985f23fcdf13f9fdbfd485b6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\50\501d71ced96acad0819286d166d54171
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\50\501d71ced96acad0819286d166d54171
-    projectPath: Library\Artifacts\50\501d71ced96acad0819286d166d54171
+  - path: Library/Artifacts/4c/4cd00111985f23fcdf13f9fdbfd485b6
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/4c/4cd00111985f23fcdf13f9fdbfd485b6
+    projectPath: Library/Artifacts/4c/4cd00111985f23fcdf13f9fdbfd485b6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\50\50923f021cd4f4f0b579c725bce58a86
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\50\50923f021cd4f4f0b579c725bce58a86
-    projectPath: Library\Artifacts\50\50923f021cd4f4f0b579c725bce58a86
+  - path: Library/Artifacts/50/5049bf24383bc916798fa3208476e9b1
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/50/5049bf24383bc916798fa3208476e9b1
+    projectPath: Library/Artifacts/50/5049bf24383bc916798fa3208476e9b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/57/576764b95bddeda0347bd38f46be0469
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/57/576764b95bddeda0347bd38f46be0469
+    projectPath: Library/Artifacts/57/576764b95bddeda0347bd38f46be0469
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/57/57d74c7b4a7733aa6556d0eda3121ee4
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/57/57d74c7b4a7733aa6556d0eda3121ee4
+    projectPath: Library/Artifacts/57/57d74c7b4a7733aa6556d0eda3121ee4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/64/64527841df243b7f9257ad50def450b9
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/64/64527841df243b7f9257ad50def450b9
+    projectPath: Library/Artifacts/64/64527841df243b7f9257ad50def450b9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\5a\5ad118cdb311dec7e79ce5c6802a53ba
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\5a\5ad118cdb311dec7e79ce5c6802a53ba
-    projectPath: Library\Artifacts\5a\5ad118cdb311dec7e79ce5c6802a53ba
+  - path: Library/Artifacts/6b/6bc18b880adfb693007ce3452b9baf21
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/6b/6bc18b880adfb693007ce3452b9baf21
+    projectPath: Library/Artifacts/6b/6bc18b880adfb693007ce3452b9baf21
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\5d\5dd264552cce365f79af772c7f4923b3
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\5d\5dd264552cce365f79af772c7f4923b3
-    projectPath: Library\Artifacts\5d\5dd264552cce365f79af772c7f4923b3
+  - path: Library/Artifacts/75/75cc6ba0e57de50e0963ef98a458535e
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/75/75cc6ba0e57de50e0963ef98a458535e
+    projectPath: Library/Artifacts/75/75cc6ba0e57de50e0963ef98a458535e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/83/831b34990637a0e29e1b600104728bb6
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/83/831b34990637a0e29e1b600104728bb6
+    projectPath: Library/Artifacts/83/831b34990637a0e29e1b600104728bb6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8c/8cb4a70548c07a939b159db36f15533d
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/8c/8cb4a70548c07a939b159db36f15533d
+    projectPath: Library/Artifacts/8c/8cb4a70548c07a939b159db36f15533d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\64\64527841df243b7f9257ad50def450b9
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\64\64527841df243b7f9257ad50def450b9
-    projectPath: Library\Artifacts\64\64527841df243b7f9257ad50def450b9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6b\6bc18b880adfb693007ce3452b9baf21
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\6b\6bc18b880adfb693007ce3452b9baf21
-    projectPath: Library\Artifacts\6b\6bc18b880adfb693007ce3452b9baf21
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\74\746032cadc9b472d96b19b5e22ae6398
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\74\746032cadc9b472d96b19b5e22ae6398
-    projectPath: Library\Artifacts\74\746032cadc9b472d96b19b5e22ae6398
+  - path: Library/Artifacts/99/9980297541c1d36e849bdea6475f35fd
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/99/9980297541c1d36e849bdea6475f35fd
+    projectPath: Library/Artifacts/99/9980297541c1d36e849bdea6475f35fd
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\80\800eac7e617ef44a47d4b4200477243f
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\80\800eac7e617ef44a47d4b4200477243f
-    projectPath: Library\Artifacts\80\800eac7e617ef44a47d4b4200477243f
+  - path: Library/Artifacts/9b/9b55f555d818921f4d6fd2cfb71ce890
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/9b/9b55f555d818921f4d6fd2cfb71ce890
+    projectPath: Library/Artifacts/9b/9b55f555d818921f4d6fd2cfb71ce890
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\86\86ebbe4f56ecf4ddd4a2cf66b23f9cdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\86\86ebbe4f56ecf4ddd4a2cf66b23f9cdb
-    projectPath: Library\Artifacts\86\86ebbe4f56ecf4ddd4a2cf66b23f9cdb
+  - path: Library/Artifacts/9d/9de914360f133a916c12e91fbe9beb55
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/9d/9de914360f133a916c12e91fbe9beb55
+    projectPath: Library/Artifacts/9d/9de914360f133a916c12e91fbe9beb55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a2/a281d176f4d41281505feac24ab8ae32
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/a2/a281d176f4d41281505feac24ab8ae32
+    projectPath: Library/Artifacts/a2/a281d176f4d41281505feac24ab8ae32
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\8b\8b404e5b320d2ad870529f7bc782bc4f
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\8b\8b404e5b320d2ad870529f7bc782bc4f
-    projectPath: Library\Artifacts\8b\8b404e5b320d2ad870529f7bc782bc4f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8c\8cb4a70548c07a939b159db36f15533d
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\8c\8cb4a70548c07a939b159db36f15533d
-    projectPath: Library\Artifacts\8c\8cb4a70548c07a939b159db36f15533d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\95\956b26adc7faacdef871541ce9b46d19
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\95\956b26adc7faacdef871541ce9b46d19
-    projectPath: Library\Artifacts\95\956b26adc7faacdef871541ce9b46d19
+  - path: Library/Artifacts/a4/a4b49965ac994feee1b2de074452c970
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/a4/a4b49965ac994feee1b2de074452c970
+    projectPath: Library/Artifacts/a4/a4b49965ac994feee1b2de074452c970
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\9a\9a8189d692f0ae03503ff0f7e0ba1bc4
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\9a\9a8189d692f0ae03503ff0f7e0ba1bc4
-    projectPath: Library\Artifacts\9a\9a8189d692f0ae03503ff0f7e0ba1bc4
+  - path: Library/Artifacts/aa/aaf54362486317525c0f87975710dd8d
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/aa/aaf54362486317525c0f87975710dd8d
+    projectPath: Library/Artifacts/aa/aaf54362486317525c0f87975710dd8d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/af/af732b72fcf2eedbec280d4a76546f65
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/af/af732b72fcf2eedbec280d4a76546f65
+    projectPath: Library/Artifacts/af/af732b72fcf2eedbec280d4a76546f65
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\a0\a07023c4ebc3ba9c3faea449ca141782
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\a0\a07023c4ebc3ba9c3faea449ca141782
-    projectPath: Library\Artifacts\a0\a07023c4ebc3ba9c3faea449ca141782
+  - path: Library/Artifacts/b2/b2ced500e31f143582496dd4930a46e1
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/b2/b2ced500e31f143582496dd4930a46e1
+    projectPath: Library/Artifacts/b2/b2ced500e31f143582496dd4930a46e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b4/b4bfb0009860cc8932510a34151aa7be
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/b4/b4bfb0009860cc8932510a34151aa7be
+    projectPath: Library/Artifacts/b4/b4bfb0009860cc8932510a34151aa7be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b6/b6c35acd167d7d9e617534fac26900a8
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/b6/b6c35acd167d7d9e617534fac26900a8
+    projectPath: Library/Artifacts/b6/b6c35acd167d7d9e617534fac26900a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c8/c8ef044ae2c28f10b297a5ef9177ab14
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/c8/c8ef044ae2c28f10b297a5ef9177ab14
+    projectPath: Library/Artifacts/c8/c8ef044ae2c28f10b297a5ef9177ab14
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\a2\a281d176f4d41281505feac24ab8ae32
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\a2\a281d176f4d41281505feac24ab8ae32
-    projectPath: Library\Artifacts\a2\a281d176f4d41281505feac24ab8ae32
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a3\a37763fe5857eebdf40a28a72328d887
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\a3\a37763fe5857eebdf40a28a72328d887
-    projectPath: Library\Artifacts\a3\a37763fe5857eebdf40a28a72328d887
+  - path: Library/Artifacts/c9/c96635a6feeacf44187a0a372ae6f0eb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/c9/c96635a6feeacf44187a0a372ae6f0eb
+    projectPath: Library/Artifacts/c9/c96635a6feeacf44187a0a372ae6f0eb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\c6\c67df798cfa42312e29d9c9f7489d7ab
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\c6\c67df798cfa42312e29d9c9f7489d7ab
-    projectPath: Library\Artifacts\c6\c67df798cfa42312e29d9c9f7489d7ab
+  - path: Library/Artifacts/cd/cd8ff9b28412d2c86091a12593085609
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/cd/cd8ff9b28412d2c86091a12593085609
+    projectPath: Library/Artifacts/cd/cd8ff9b28412d2c86091a12593085609
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d0/d0f25cc7b940289b17e47fc3523e71db
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/d0/d0f25cc7b940289b17e47fc3523e71db
+    projectPath: Library/Artifacts/d0/d0f25cc7b940289b17e47fc3523e71db
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\c8\c8ef044ae2c28f10b297a5ef9177ab14
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\c8\c8ef044ae2c28f10b297a5ef9177ab14
-    projectPath: Library\Artifacts\c8\c8ef044ae2c28f10b297a5ef9177ab14
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c9\c96635a6feeacf44187a0a372ae6f0eb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\c9\c96635a6feeacf44187a0a372ae6f0eb
-    projectPath: Library\Artifacts\c9\c96635a6feeacf44187a0a372ae6f0eb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d0\d0f25cc7b940289b17e47fc3523e71db
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\d0\d0f25cc7b940289b17e47fc3523e71db
-    projectPath: Library\Artifacts\d0\d0f25cc7b940289b17e47fc3523e71db
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\da\daf1aeb324a270bee400a313dacb9b59
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\da\daf1aeb324a270bee400a313dacb9b59
-    projectPath: Library\Artifacts\da\daf1aeb324a270bee400a313dacb9b59
+  - path: Library/Artifacts/d5/d5b15cf0a7d23d14a5d3fc1e13845129
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/d5/d5b15cf0a7d23d14a5d3fc1e13845129
+    projectPath: Library/Artifacts/d5/d5b15cf0a7d23d14a5d3fc1e13845129
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\de\dea0137c71ca2f675407a8957b22192d
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\de\dea0137c71ca2f675407a8957b22192d
-    projectPath: Library\Artifacts\de\dea0137c71ca2f675407a8957b22192d
+  - path: Library/Artifacts/df/df97a283b5a75c4280be2b4b47c6fafc
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/df/df97a283b5a75c4280be2b4b47c6fafc
+    projectPath: Library/Artifacts/df/df97a283b5a75c4280be2b4b47c6fafc
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\df\df97a283b5a75c4280be2b4b47c6fafc
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\df\df97a283b5a75c4280be2b4b47c6fafc
-    projectPath: Library\Artifacts\df\df97a283b5a75c4280be2b4b47c6fafc
+  - path: Library/Artifacts/e6/e66afd5b1817269bc8729d4d4dc98aa3
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/e6/e66afd5b1817269bc8729d4d4dc98aa3
+    projectPath: Library/Artifacts/e6/e66afd5b1817269bc8729d4d4dc98aa3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\e1\e146fe5178b1b6dc06427483869bbd93
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\e1\e146fe5178b1b6dc06427483869bbd93
-    projectPath: Library\Artifacts\e1\e146fe5178b1b6dc06427483869bbd93
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e2\e28eb00d0d4483e23f0fee3d24507577
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\e2\e28eb00d0d4483e23f0fee3d24507577
-    projectPath: Library\Artifacts\e2\e28eb00d0d4483e23f0fee3d24507577
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fd\fd7c65804338e7aff15319b2ccb3e39b
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\fd\fd7c65804338e7aff15319b2ccb3e39b
-    projectPath: Library\Artifacts\fd\fd7c65804338e7aff15319b2ccb3e39b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ff\ffe14638e45084d1255838ef8d410f3b
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\Artifacts\ff\ffe14638e45084d1255838ef8d410f3b
-    projectPath: Library\Artifacts\ff\ffe14638e45084d1255838ef8d410f3b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\EditorInstance.json
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
+  - path: Library/Artifacts/e9/e9c1af020aaaa0626019c758b47c2134
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/e9/e9c1af020aaaa0626019c758b47c2134
+    projectPath: Library/Artifacts/e9/e9c1af020aaaa0626019c758b47c2134
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\EditorUserBuildSettings.asset
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\PsdPlugin.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\PsdPlugin.dll
-    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\PsdPlugin.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\PsdPlugin.pdb
-    projectPath: Library\ScriptAssemblies\PsdPlugin.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Mathematics.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.Mathematics.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Mathematics.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.Mathematics.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.Timeline.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\SourceAssetDB
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\SourceAssetDB
-    projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\SourceAssetDB-lock
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\SourceAssetDB-lock
-    projectPath: Library\SourceAssetDB-lock
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\46b7a0-mainStage.json
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\StateCache\Hierarchy\46b7a0-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\d69a67-mainStage.json
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Library\StateCache\SceneView\d69a67-mainStage.json
-    projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
+  - path: Library/Artifacts/f4/f4ad2a36c201d9e300cfd3f2d182a76c
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/f4/f4ad2a36c201d9e300cfd3f2d182a76c
+    projectPath: Library/Artifacts/f4/f4ad2a36c201d9e300cfd3f2d182a76c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityLockfile
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
+  - path: Library/Artifacts/fd/fdd755c817e68796805d18b853ccd1b3
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/Artifacts/fd/fdd755c817e68796805d18b853ccd1b3
+    projectPath: Library/Artifacts/fd/fdd755c817e68796805d18b853ccd1b3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-00769bf9820a4c348bff33baca397063
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-00769bf9820a4c348bff33baca397063
-    projectPath: Temp\UnityTempFile-00769bf9820a4c348bff33baca397063
+  - path: Library/CurrentLayout-default.dwlt
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0261f70ddb472d441a6351916d4b7d72
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-0261f70ddb472d441a6351916d4b7d72
-    projectPath: Temp\UnityTempFile-0261f70ddb472d441a6351916d4b7d72
+  - path: Library/EditorUserBuildSettings.asset
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/EditorUserBuildSettings.asset
+    projectPath: Library/EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SceneVisibilityState.asset
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/PsdPlugin.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/PsdPlugin.dll
+    projectPath: Library/ScriptAssemblies/PsdPlugin.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/PsdPlugin.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/PsdPlugin.pdb
+    projectPath: Library/ScriptAssemblies/PsdPlugin.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Animation.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Common.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Common.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Common.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Common.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Common.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Path.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Path.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Path.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Path.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Path.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll
+    projectPath: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.pdb
+    projectPath: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.pdb
+    projectPath: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Mathematics.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.Mathematics.dll
+    projectPath: Library/ScriptAssemblies/Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Mathematics.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.Mathematics.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Mathematics.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Mathematics.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.Mathematics.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Mathematics.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.Timeline.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.Timeline.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.UI.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/UnityEditor.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.UI.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/UnityEditor.UI.pdb
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.dll
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/UnityEngine.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.pdb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/ScriptAssemblies/UnityEngine.UI.pdb
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB-lock
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/SourceAssetDB-lock
+    projectPath: Library/SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/46b7a0-01cfd4e2f69154104a.json
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/StateCache/Hierarchy/46b7a0-01cfd4e2f69154104a.json
+    projectPath: Library/StateCache/Hierarchy/46b7a0-01cfd4e2f69154104a.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/46b7a0-mainStage.json
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/StateCache/Hierarchy/46b7a0-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/46b7a0-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/d69a67-mainStage.json
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Library/StateCache/SceneView/d69a67-mainStage.json
+    projectPath: Library/StateCache/SceneView/d69a67-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0c238f73f4014904e86f9356a3dc93a3
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-0c238f73f4014904e86f9356a3dc93a3
-    projectPath: Temp\UnityTempFile-0c238f73f4014904e86f9356a3dc93a3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-1bb9748e2bb5a8741b2f3f1596f217d8
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-1bb9748e2bb5a8741b2f3f1596f217d8
-    projectPath: Temp\UnityTempFile-1bb9748e2bb5a8741b2f3f1596f217d8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-253fb440789cab34f97aa172f2f61026
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-253fb440789cab34f97aa172f2f61026
-    projectPath: Temp\UnityTempFile-253fb440789cab34f97aa172f2f61026
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-254b349778cfb8743b5f076483add5af
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-254b349778cfb8743b5f076483add5af
-    projectPath: Temp\UnityTempFile-254b349778cfb8743b5f076483add5af
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-260caa9809ca98445bea3809488c0125
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-260caa9809ca98445bea3809488c0125
-    projectPath: Temp\UnityTempFile-260caa9809ca98445bea3809488c0125
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-32e868ee91c16e444892ef2c0453df4a
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-32e868ee91c16e444892ef2c0453df4a
-    projectPath: Temp\UnityTempFile-32e868ee91c16e444892ef2c0453df4a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-3d182836fa7f77148b777410b47adad0
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-3d182836fa7f77148b777410b47adad0
-    projectPath: Temp\UnityTempFile-3d182836fa7f77148b777410b47adad0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-3e6b929266e810e4d8f710a6ea67759b
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-3e6b929266e810e4d8f710a6ea67759b
-    projectPath: Temp\UnityTempFile-3e6b929266e810e4d8f710a6ea67759b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-40bf86966b2063a448b03176d2804874
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-40bf86966b2063a448b03176d2804874
-    projectPath: Temp\UnityTempFile-40bf86966b2063a448b03176d2804874
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-41716155ee0603a43ae9a8649e55593e
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-41716155ee0603a43ae9a8649e55593e
-    projectPath: Temp\UnityTempFile-41716155ee0603a43ae9a8649e55593e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-433ba9f5f30d92f46b046b10b4c71849
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-433ba9f5f30d92f46b046b10b4c71849
-    projectPath: Temp\UnityTempFile-433ba9f5f30d92f46b046b10b4c71849
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-43aa027afdb9bba408f05b2439d0fa3d
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-43aa027afdb9bba408f05b2439d0fa3d
-    projectPath: Temp\UnityTempFile-43aa027afdb9bba408f05b2439d0fa3d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-44d90d9936e66ee4ebb53472ca498140
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-44d90d9936e66ee4ebb53472ca498140
-    projectPath: Temp\UnityTempFile-44d90d9936e66ee4ebb53472ca498140
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-477529ce52420f849b7449289c9c9dc9
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-477529ce52420f849b7449289c9c9dc9
-    projectPath: Temp\UnityTempFile-477529ce52420f849b7449289c9c9dc9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4980c230234cec94090857ffdceb21cc
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-4980c230234cec94090857ffdceb21cc
-    projectPath: Temp\UnityTempFile-4980c230234cec94090857ffdceb21cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4b0def711836e0940b1404ff1ba61d5d
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-4b0def711836e0940b1404ff1ba61d5d
-    projectPath: Temp\UnityTempFile-4b0def711836e0940b1404ff1ba61d5d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4d8a6473d44783b41926a42ea04d8e0a
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-4d8a6473d44783b41926a42ea04d8e0a
-    projectPath: Temp\UnityTempFile-4d8a6473d44783b41926a42ea04d8e0a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-52b10224b9b0d2f469f58a4ea4eb2253
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-52b10224b9b0d2f469f58a4ea4eb2253
-    projectPath: Temp\UnityTempFile-52b10224b9b0d2f469f58a4ea4eb2253
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-55226042cb332fa4999ccd18b9c175c0
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-55226042cb332fa4999ccd18b9c175c0
-    projectPath: Temp\UnityTempFile-55226042cb332fa4999ccd18b9c175c0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-5937f58b671d1494b89e8bde168bfcef
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-5937f58b671d1494b89e8bde168bfcef
-    projectPath: Temp\UnityTempFile-5937f58b671d1494b89e8bde168bfcef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-60718490d67ce824999700b75b2bd825
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-60718490d67ce824999700b75b2bd825
-    projectPath: Temp\UnityTempFile-60718490d67ce824999700b75b2bd825
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-63fa8a9fac86be242b3480f3d81c1a21
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-63fa8a9fac86be242b3480f3d81c1a21
-    projectPath: Temp\UnityTempFile-63fa8a9fac86be242b3480f3d81c1a21
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-691e1df4c3e84b146a5bf40f5bf009c8
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-691e1df4c3e84b146a5bf40f5bf009c8
-    projectPath: Temp\UnityTempFile-691e1df4c3e84b146a5bf40f5bf009c8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-6f7d718472416e54ba5515825d6726e6
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-6f7d718472416e54ba5515825d6726e6
-    projectPath: Temp\UnityTempFile-6f7d718472416e54ba5515825d6726e6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-794047aa83bfe1f4cad8d44db46935b2
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-794047aa83bfe1f4cad8d44db46935b2
-    projectPath: Temp\UnityTempFile-794047aa83bfe1f4cad8d44db46935b2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-7d9564950b053904aa1760f57c994f88
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-7d9564950b053904aa1760f57c994f88
-    projectPath: Temp\UnityTempFile-7d9564950b053904aa1760f57c994f88
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-80ce716b4f626104b8889b35729db244
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-80ce716b4f626104b8889b35729db244
-    projectPath: Temp\UnityTempFile-80ce716b4f626104b8889b35729db244
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-86be1d3da50e34448954e72407eefc4b
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-86be1d3da50e34448954e72407eefc4b
-    projectPath: Temp\UnityTempFile-86be1d3da50e34448954e72407eefc4b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-930bd36ac460b794aacdecf326bf529a
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-930bd36ac460b794aacdecf326bf529a
-    projectPath: Temp\UnityTempFile-930bd36ac460b794aacdecf326bf529a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-965c88980ea53454796798cffc38f835
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-965c88980ea53454796798cffc38f835
-    projectPath: Temp\UnityTempFile-965c88980ea53454796798cffc38f835
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a2656b08a9df4db4f8f000a94cfb186a
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-a2656b08a9df4db4f8f000a94cfb186a
-    projectPath: Temp\UnityTempFile-a2656b08a9df4db4f8f000a94cfb186a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ac5f769c4528d594b904b45cf326367c
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-ac5f769c4528d594b904b45cf326367c
-    projectPath: Temp\UnityTempFile-ac5f769c4528d594b904b45cf326367c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b1c17ad7a4e33ca4c9af83a648fe8587
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-b1c17ad7a4e33ca4c9af83a648fe8587
-    projectPath: Temp\UnityTempFile-b1c17ad7a4e33ca4c9af83a648fe8587
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b765469fac510674d929f9e71816e700
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-b765469fac510674d929f9e71816e700
-    projectPath: Temp\UnityTempFile-b765469fac510674d929f9e71816e700
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-bc6313f338f83a748b30b256d1b391f3
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-bc6313f338f83a748b30b256d1b391f3
-    projectPath: Temp\UnityTempFile-bc6313f338f83a748b30b256d1b391f3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-bf025c208801c8a479316fe28316327e
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-bf025c208801c8a479316fe28316327e
-    projectPath: Temp\UnityTempFile-bf025c208801c8a479316fe28316327e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c3fd0683c63a11a4ba525d0f30d8f988
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-c3fd0683c63a11a4ba525d0f30d8f988
-    projectPath: Temp\UnityTempFile-c3fd0683c63a11a4ba525d0f30d8f988
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c4cdba31bae62de4b85ff42d39b802a2
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-c4cdba31bae62de4b85ff42d39b802a2
-    projectPath: Temp\UnityTempFile-c4cdba31bae62de4b85ff42d39b802a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-cb4695cc4fcfba94d881c32ecce4d48e
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-cb4695cc4fcfba94d881c32ecce4d48e
-    projectPath: Temp\UnityTempFile-cb4695cc4fcfba94d881c32ecce4d48e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-cedbde6946372394aabfc27d60e63d26
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-cedbde6946372394aabfc27d60e63d26
-    projectPath: Temp\UnityTempFile-cedbde6946372394aabfc27d60e63d26
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d376787f7e747924a91fcff6c7bac438
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-d376787f7e747924a91fcff6c7bac438
-    projectPath: Temp\UnityTempFile-d376787f7e747924a91fcff6c7bac438
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d79d5fca40b454148b1f1178e217d738
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-d79d5fca40b454148b1f1178e217d738
-    projectPath: Temp\UnityTempFile-d79d5fca40b454148b1f1178e217d738
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-dcbd3e8886d7cb04ca7b555970bf4611
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-dcbd3e8886d7cb04ca7b555970bf4611
-    projectPath: Temp\UnityTempFile-dcbd3e8886d7cb04ca7b555970bf4611
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-de8a4dc1e0b9e0947b2a9d14f80c57ae
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-de8a4dc1e0b9e0947b2a9d14f80c57ae
-    projectPath: Temp\UnityTempFile-de8a4dc1e0b9e0947b2a9d14f80c57ae
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e47bd43b1ccb8184aa3858ee4fb79e4a
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-e47bd43b1ccb8184aa3858ee4fb79e4a
-    projectPath: Temp\UnityTempFile-e47bd43b1ccb8184aa3858ee4fb79e4a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ff7ccf4f2a9651f45b1192f446eecc85
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_8\Temp\UnityTempFile-ff7ccf4f2a9651f45b1192f446eecc85
-    projectPath: Temp\UnityTempFile-ff7ccf4f2a9651f45b1192f446eecc85
+  - path: Temp/UnityLockfile
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_8/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

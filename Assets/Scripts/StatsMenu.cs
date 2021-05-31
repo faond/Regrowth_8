@@ -43,7 +43,7 @@ public class StatsMenu : MonoBehaviour
 
 
 
-    public void Start()
+    public void OnEnable()
     {
       int nbIterU = RandomManager.instance.uniform.Count;
       int nbIterBe = RandomManager.instance.bernoulli.Count;
@@ -60,37 +60,37 @@ public class StatsMenu : MonoBehaviour
 
       if(nbIterU != 0){
         float meanU = RandomManager.instance.Mean(RandomManager.instance.uniform);
-        meanUni.text = meanU.ToString();
-        meanMeanUni.text = RandomManager.instance.MeanDeviationsMean(RandomManager.instance.uniform, meanU).ToString();
-        deviationUni.text = RandomManager.instance.StandardDeviation(RandomManager.instance.uniform, meanU).ToString();
+        meanUni.text = meanU.ToString("F2");
+        meanMeanUni.text = RandomManager.instance.MeanDeviationsMean(RandomManager.instance.uniform, meanU).ToString("F2");
+        deviationUni.text = RandomManager.instance.StandardDeviation(RandomManager.instance.uniform, meanU).ToString("F2");
       }
 
       if(nbIterBe != 0){
         float meanBe = RandomManager.instance.Mean(RandomManager.instance.bernoulli);
-        meanBern.text = meanBe.ToString();
-        meanMeanBern.text = RandomManager.instance.MeanDeviationsMean(RandomManager.instance.bernoulli, meanBe).ToString();
-        deviationBern.text = RandomManager.instance.StandardDeviation(RandomManager.instance.bernoulli, meanBe).ToString();
+        meanBern.text = meanBe.ToString("F2");
+        meanMeanBern.text = RandomManager.instance.MeanDeviationsMean(RandomManager.instance.bernoulli, meanBe).ToString("F2");
+        deviationBern.text = RandomManager.instance.StandardDeviation(RandomManager.instance.bernoulli, meanBe).ToString("F2");
       }
 
       if(nbIterBi != 0){
         float meanBi = RandomManager.instance.Mean(RandomManager.instance.binomial);
-        meanBino.text = meanBi.ToString();
-        meanMeanBino.text = RandomManager.instance.MeanDeviationsMean(RandomManager.instance.binomial, meanBi).ToString();
-        deviationBino.text = RandomManager.instance.StandardDeviation(RandomManager.instance.binomial, meanBi).ToString();
+        meanBino.text = meanBi.ToString("F2");
+        meanMeanBino.text = RandomManager.instance.MeanDeviationsMean(RandomManager.instance.binomial, meanBi).ToString("F2");
+        deviationBino.text = RandomManager.instance.StandardDeviation(RandomManager.instance.binomial, meanBi).ToString("F2");
       }
 
       if(nbIterG != 0){
         float meanG = RandomManager.instance.Mean(RandomManager.instance.geometric);
-        meanGeom.text = meanG.ToString();
-        meanMeanGeom.text = RandomManager.instance.MeanDeviationsMean(RandomManager.instance.geometric, meanG).ToString();
-        deviationGeom.text = RandomManager.instance.StandardDeviation(RandomManager.instance.geometric, meanG).ToString();
+        meanGeom.text = meanG.ToString("F2");
+        meanMeanGeom.text = RandomManager.instance.MeanDeviationsMean(RandomManager.instance.geometric, meanG).ToString("F2");
+        deviationGeom.text = RandomManager.instance.StandardDeviation(RandomManager.instance.geometric, meanG).ToString("F2");
       }
 
       if(nbIterP != 0){
         float meanP = RandomManager.instance.Mean(RandomManager.instance.poisson);
-        meanPoiss.text = meanP.ToString();
-        meanMeanPoiss.text = RandomManager.instance.MeanDeviationsMean(RandomManager.instance.poisson, meanP).ToString();
-        deviationPoiss.text = RandomManager.instance.StandardDeviation(RandomManager.instance.poisson, meanP).ToString();
+        meanPoiss.text = meanP.ToString("F2");
+        meanMeanPoiss.text = RandomManager.instance.MeanDeviationsMean(RandomManager.instance.poisson, meanP).ToString("F2");
+        deviationPoiss.text = RandomManager.instance.StandardDeviation(RandomManager.instance.poisson, meanP).ToString("F2");
       }
 
 

@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 5cf4334be4d5d4737a64b7ccfcba3d33
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Londrina Solid
+  fontNames:
+  - Londrina Solid
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 057ff812b98d14050a30718660a3ddf9, type: 3}
+  - {fileID: 12800000, guid: 6764af6a44b74491c985ca92cb5a30fb, type: 3}
+  - {fileID: 12800000, guid: e44974dc56cf44c0a9c5d21b4701eb27, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
